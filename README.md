@@ -1,5 +1,10 @@
-# SocialMediaBlocker-Chrome-Ext
+# SocialMediaBlocker-Chrome-Extension
 Chrome extension which will block most of the social media sites
+
+## Tech Used
+##### JavaScript
+##### CSS
+##### HTML
 
 ## Screenshot
 
